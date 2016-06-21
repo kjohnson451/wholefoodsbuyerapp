@@ -1,0 +1,13 @@
+{
+  "appname": "wholefoodsbuyerapp",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "2A704B04-6659-46E0-AA80-9EE2C5F1293C",
+  "buyerid": "WholeFoods",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
